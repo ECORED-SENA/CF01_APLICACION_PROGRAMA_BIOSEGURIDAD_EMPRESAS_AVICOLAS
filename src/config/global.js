@@ -379,13 +379,110 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Bioseguridad',
+      significado:
+        'conjunto de medidas destinadas a prevenir el ingreso y la propagación de enfermedades en una explotación avícola.',
+    },
+    {
+      termino: 'Buenas Prácticas Avícolas (BPA)',
+      significado:
+        'principios y procedimientos orientados a garantizar una producción avícola segura, eficiente y sostenible.',
+    },
+    {
+      termino: 'Contaminación cruzada',
+      significado:
+        'transferencia de microorganismos entre personas, animales, equipos, materiales o instalaciones.',
+    },
+    {
+      termino: 'Desinfección',
+      significado:
+        'proceso destinado a reducir o eliminar microorganismos presentes en instalaciones, equipos y superficies.',
+    },
+    {
+      termino: 'Elementos de Protección Personal (EPP)',
+      significado:
+        'equipos utilizados para proteger al trabajador frente a riesgos presentes durante las actividades laborales.',
+    },
+    {
+      termino: 'Inocuidad',
+      significado:
+        'garantía de que los productos obtenidos no representan riesgos para la salud del consumidor.',
+    },
+    {
+      termino: 'Prácticas Operativas Estandarizadas Sanitarias (POES)',
+      significado:
+        'procedimientos documentados que establecen las actividades de limpieza, desinfección, higiene y control sanitario.',
+    },
+    {
+      termino: 'Riesgo biológico',
+      significado:
+        'probabilidad de exposición a microorganismos capaces de producir enfermedades.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'seguimiento documentado de las actividades y procedimientos realizados durante el proceso productivo.',
+    },
+    {
+      termino: 'Vector',
+      significado:
+        'organismo capaz de transportar o transmitir agentes patógenos entre animales, instalaciones o ambientes.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Instituto Colombiano Agropecuario [ICA]. (2014). Resolución 3651 de 2014, por medio de la cual se establecen los requisitos para la certificación de granjas avícolas bioseguras de postura y/o levante y se dictan otras disposiciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario [ICA]. (s. f.). Buenas prácticas ganaderas en la producción avícola. Instituto Colombiano Agropecuario.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario [ICA]. (s. f.). Lineamientos técnicos de bioseguridad y buenas prácticas avícolas. Instituto Colombiano Agropecuario.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Agricultura y Desarrollo Rural. (2015). Decreto 1071 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2015). Decreto 1076 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2019). Resolución 2184 de 2019, por la cual se modifica la Resolución 668 de 2016 sobre el uso racional de bolsas plásticas y se adoptan otras disposiciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2007). Resolución 2115 de 2007, por medio de la cual se señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2015). Decreto 1072 de 2015, por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2019). Resolución 0312 de 2019, por la cual se definen los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST).',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura [FAO]. (2013). Revisión del desarrollo avícola. FAO.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal [OMSA]. (s. f.). Código sanitario para los animales terrestres. OMSA.',
       link: '',
     },
   ],
@@ -395,7 +492,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -405,50 +503,96 @@ export default {
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Juan José Calderon Gutiérrez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
