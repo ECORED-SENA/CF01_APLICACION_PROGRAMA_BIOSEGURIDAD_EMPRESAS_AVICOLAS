@@ -266,7 +266,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .caja-1.ajuste-5(data-aos="fade-right")
-            p Los #[b desinfectantes]son productos químicos capaces de destruir microorganismos patógenos cuando se aplican sobre superficies previamente limpias. Su selección depende del tipo de microorganismo que se desea controlar, la presencia de materia orgánica, el material de la superficie y las condiciones ambientales. Entre los desinfectantes más utilizados en avicultura se encuentran:
+            p Los #[b desinfectantes] son productos químicos capaces de destruir microorganismos patógenos cuando se aplican sobre superficies previamente limpias. Su selección depende del tipo de microorganismo que se desea controlar, la presencia de materia orgánica, el material de la superficie y las condiciones ambientales. Entre los desinfectantes más utilizados en avicultura se encuentran:
             ul.fa-ul.estilo___ul.mb-0
               li.mb-1
                 span.fa-li
@@ -440,19 +440,19 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 1 litro
-                      td.texto-left 1.000 mililitros.
+                      td.texto-left 1.000 mililitros
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 1 kilogramo
-                      td.texto-left 1.000 gramos.
+                      td.texto-left 1.000 gramos
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 500 mL
-                      td.texto-left 0,5 litros.
+                      td.texto-left 0,5 litros
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 250 mL
-                      td.texto-left 0,25 litros.
+                      td.texto-left 0,25 litros
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 100 g
-                      td.texto-left 0,1 kg.
+                      td.texto-left 0,1 kg
           p.mb-5 Estas equivalencias facilitan la conversión entre unidades durante los procesos de dosificación. Los siguientes ejemplos permiten relacionar el volumen final de solución, la concentración requerida y la cantidad de producto necesaria:
           .row.justify-content-center.mb-5
             .col-xl-8
@@ -470,19 +470,19 @@
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 10 L
                       td.ajuste-border-tabla.texto-left 1 %
-                      td.texto-left 100 mL.
+                      td.texto-left 100 mL
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 20 L
                       td.ajuste-border-tabla.texto-left 2 %
-                      td.texto-left 400 mL.
+                      td.texto-left 400 mL
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 50 L
                       td.ajuste-border-tabla.texto-left 1 %
-                      td.texto-left 500 mL.
+                      td.texto-left 500 mL
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 100 L
                       td.ajuste-border-tabla.texto-left 0,5 %
-                      td.texto-left 500 mL.
+                      td.texto-left 500 mL
           .caja-3.mb-5.color-2(data-aos="zoom-in")
             .row.align-items-center
               .col-xl.order-2.order-lg-1.caja-2_p
@@ -574,7 +574,7 @@
               p.mb-3 Gestión ambiental y manejo de residuos.
             .row(titulo="Resolución ICA 3651 de 2014 y normas que la modifiquen o sustituyan").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Requisitos para granjas avícolas bioseguras, incluyendo limpieza y desinfección.
-            .row(titulo="Lineamientos del ICA sobre Buenas Prácticas Avícolas (BPA)").ajuste-cajaAcordion.ajuste-vineta
+            .row(titulo="Lineamientos del ICA sobre buenas prácticas avícolas (BPA)").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Protocolos de limpieza, desinfección y bioseguridad.
             .row(titulo="Sistema Globalmente Armonizado (SGA) adoptado en Colombia").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Clasificación, etiquetado y comunicación de peligros de productos químicos mediante Hojas de Datos de Seguridad.

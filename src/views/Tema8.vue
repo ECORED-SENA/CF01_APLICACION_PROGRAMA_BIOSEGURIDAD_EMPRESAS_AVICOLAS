@@ -460,7 +460,7 @@
                       td.ajuste-border-tabla.texto-left.text-weight-bold Resolución 2184 de 2019
                       td.texto-left Código de colores para la separación de residuos en la fuente.
                     tr.ajuste-color-tabla
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Lineamientos técnicos del ICA sobre Buenas Prácticas Avícolas
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Lineamientos técnicos del ICA sobre buenas prácticas avícolas
                       td.texto-left Manejo sanitario de residuos, mortalidad y subproductos avícolas.
           .row.justify-content-center.align-items-center.mb-0
             .col-xl

@@ -68,19 +68,19 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Color
-                      td.ajuste-border-tabla.texto-left Transparente.
+                      td.ajuste-border-tabla.texto-left Transparente
                       td.texto-left Indica ausencia de contaminación visible.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Olor
-                      td.ajuste-border-tabla.texto-left Sin olor.
+                      td.ajuste-border-tabla.texto-left Sin olor
                       td.texto-left Favorece el consumo.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Sabor
-                      td.ajuste-border-tabla.texto-left Neutro.
+                      td.ajuste-border-tabla.texto-left Neutro
                       td.texto-left No altera el consumo.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Turbidez
-                      td.ajuste-border-tabla.texto-left Baja.
+                      td.ajuste-border-tabla.texto-left Baja
                       td.texto-left Reduce la presencia de partículas.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold pH
@@ -88,7 +88,7 @@
                       td.texto-left Favorece la salud y la eficacia de tratamientos.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Microorganismos patógenos
-                      td.ajuste-border-tabla.texto-left Ausentes.
+                      td.ajuste-border-tabla.texto-left Ausentes
                       td.texto-left Previene enfermedades.
           p.mb-5 Estas condiciones permiten establecer criterios básicos para identificar alteraciones que puedan comprometer el consumo, la sanidad o el desempeño productivo de las aves. La calidad del agua puede deteriorarse por diferentes factores relacionados con la fuente, el almacenamiento y el sistema de distribución.
           .row.justify-content-center.mb-5
@@ -256,19 +256,19 @@
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Hipoclorito de sodio
                       td.ajuste-border-tabla.texto-left Desinfección
-                      td.texto-left Uso frecuente
+                      td.texto-left Uso frecuente.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Peróxido de hidrógeno
-                      td.ajuste-border-tabla.texto-left Eliminación de biopelículas
-                      td.texto-left Alta eficacia
+                      td.ajuste-border-tabla.texto-left Eliminación de biopelículas.
+                      td.texto-left Alta eficacia.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Dióxido de cloro
-                      td.ajuste-border-tabla.texto-left Control microbiológico
-                      td.texto-left Amplio espectro
+                      td.ajuste-border-tabla.texto-left Control microbiológico.
+                      td.texto-left Amplio espectro.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ácidos orgánicos
                       td.ajuste-border-tabla.texto-left Acidificación
-                      td.texto-left Mejora la calidad del agua
+                      td.texto-left Mejora la calidad del agua.
           .caja-2.color-1.mb-5(data-aos="zoom-in")
             .row.align-items-center
               .col-xl-auto
@@ -335,13 +335,13 @@
                       td.texto-left Entre lotes y cuando se requiera.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Limpieza de bebederos
-                      td.texto-left Diaria.
+                      td.texto-left Diaria
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Comprobación de fugas
-                      td.texto-left Diaria.
+                      td.texto-left Diaria
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Medición del consumo
-                      td.texto-left Diaria.
+                      td.texto-left Diaria
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Análisis de laboratorio
                       td.texto-left Según programa sanitario y evaluación del riesgo.
@@ -515,7 +515,7 @@
                       td.ajuste-border-tabla.texto-left.text-weight-bold Resolución ICA 3651 de 2014 y normas que la modifiquen o sustituyan
                       td.texto-left Requisitos para granjas avícolas bioseguras, incluyendo el suministro de agua segura.
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Lineamientos técnicos del ICA sobre Buenas Prácticas Avícolas (BPA)
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Lineamientos técnicos del ICA sobre buenas prácticas avícolas (BPA)
                       td.texto-left Calidad del agua, limpieza de sistemas de distribución y monitoreo sanitario.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Resolución 2115 de 2007 (Ministerios de Salud y Ambiente)

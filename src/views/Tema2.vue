@@ -400,7 +400,7 @@
                     .col-12
                       img(src='@/assets/curso/temas/t2/img36.png').m-auto
                   h4.mb-3.estilo-text Lineamientos técnicos del ICA sobre BPA
-                  p.mb-0.text-center Implementación de Buenas Prácticas Avícolas.
+                  p.mb-0.text-center Implementación de buenas prácticas avícolas.
           p.mb-0 El cumplimiento de estas disposiciones debe articularse con los procedimientos, registros, mecanismos de verificación y responsabilidades establecidos por la empresa. De esta manera, los #[b POES y las BPA] se consolidan como componentes fundamentales del programa de bioseguridad y de la gestión integral de la producción avícola.
 
 </template>

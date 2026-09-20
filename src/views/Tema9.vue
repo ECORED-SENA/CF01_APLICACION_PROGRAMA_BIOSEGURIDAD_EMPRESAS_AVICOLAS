@@ -191,16 +191,16 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Mosca
-                      td.texto-left Huevo – Larva – Pupa – Adulto.
+                      td.texto-left Huevo – Larva – Pupa – Adulto
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Escarabajo de la cama
-                      td.texto-left Huevo – Larva – Pupa – Adulto.
+                      td.texto-left Huevo – Larva – Pupa – Adulto
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Cucaracha
-                      td.texto-left Huevo – Ninfa – Adulto.
+                      td.texto-left Huevo – Ninfa – Adulto
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ratón
-                      td.texto-left Cría – Juvenil – Adulto.
+                      td.texto-left Cría – Juvenil – Adulto
           p.mb-5 El conocimiento de estas etapas facilita la selección del momento más adecuado para aplicar medidas de prevención y control. Las rutas de ingreso también deben asociarse con medidas preventivas específicas.
           .row.justify-content-center.mb-5
             .col-xl-6
@@ -495,13 +495,13 @@
                     .col-12
                       img(src='@/assets/curso/temas/t9/img34.png').m-auto
                   h4.mb-3.estilo-text Inspección perimetral
-                  p.mb-0.text-center Semanal.
+                  p.mb-0.text-center Semanal
                 .tarjeta.color-acento-botones.fit___card-sinbordes
                   .row.justify-content-center.mb-4
                     .col-12
                       img(src='@/assets/curso/temas/t9/img35.png').m-auto
                   h4.mb-3.estilo-text Revisión de cebaderos
-                  p.mb-0.text-center Semanal.
+                  p.mb-0.text-center Semanal
                 .tarjeta.color-acento-botones.fit___card-sinbordes
                   .row.justify-content-center.mb-4
                     .col-12
@@ -513,7 +513,7 @@
                     .col-12
                       img(src='@/assets/curso/temas/t9/img37.png').m-auto
                   h4.mb-3.estilo-text Revisión de trampas
-                  p.mb-0.text-center Semanal.
+                  p.mb-0.text-center Semanal
                 .tarjeta.color-acento-botones.fit___card-sinbordes
                   .row.justify-content-center.mb-4
                     .col-12
@@ -637,7 +637,7 @@
                       td.ajuste-border-tabla.texto-left.text-weight-bold Resolución ICA 3651 de 2014 y normas que la modifiquen o sustituyan
                       td.texto-left Requisitos de bioseguridad y control integrado de plagas en granjas avícolas certificadas.
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Lineamientos técnicos del ICA sobre Buenas Prácticas Avícolas (BPA)
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Lineamientos técnicos del ICA sobre buenas prácticas avícolas (BPA)
                       td.texto-left Programas de monitoreo, prevención y control integrado de plagas y vectores.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Normativa nacional sobre almacenamiento y manejo seguro de plaguicidas de uso agropecuario
@@ -660,7 +660,7 @@
             h4 Inspección, monitoreo y toma de muestras
             p.mb-0 Se invita a leer el documento “#[b Inspección, monitoreo y toma de muestras]”, donde se aborda la verificación del Programa de Bioseguridad en empresas avícolas, incluyendo la calidad y toma de muestras de agua, el muestreo microbiológico de superficies, equipos y utensilios, la verificación de protocolos y los indicadores de seguimiento.
           .col-xl-2
-            a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_01_Inspección_Monitoreo_Muestras.pdf')" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_01_Inspección_Monitoreo_Muestras.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
       .caja-9.mb-0(data-aos="flip-up")

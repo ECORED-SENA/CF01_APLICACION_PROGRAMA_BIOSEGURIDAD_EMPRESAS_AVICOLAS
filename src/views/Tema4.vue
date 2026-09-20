@@ -10,7 +10,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .caja-5.ajuste-3(data-aos="fade-right")
-            p.mb-0 Por esta razón, todas las granjas avícolas deben implementar procedimientos estrictos de control de acceso, apoyados en barreras sanitarias, protocolos de higiene y medidas de Seguridad y Salud en el Trabajo (SST).
+            p.mb-0 Por esta razón, todas las granjas avícolas deben implementar procedimientos estrictos de control de acceso, apoyados en barreras sanitarias, protocolos de higiene y medidas de <b>Seguridad y Salud en el Trabajo (SST)</b>.
         .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/t4/img1.jpg', alt='' style="width: 300px").m-auto
@@ -323,7 +323,7 @@
               p.mb-3 Requisitos para la certificación de granjas avícolas bioseguras.
             .row(titulo="Resolución 0312 de 2019").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Estándares mínimos del SG-SST.
-            .row(titulo="Lineamientos técnicos del ICA sobre bioseguridad y Buenas Prácticas Avícolas").ajuste-cajaAcordion.ajuste-vineta
+            .row(titulo="Lineamientos técnicos del ICA sobre bioseguridad y buenas prácticas avícolas").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Implementación de barreras sanitarias, control de ingreso y medidas preventivas.
       p.mb-0 La aplicación articulada de estos referentes permite integrar la prevención sanitaria con las medidas destinadas a proteger la seguridad y la salud de los trabajadores.
 

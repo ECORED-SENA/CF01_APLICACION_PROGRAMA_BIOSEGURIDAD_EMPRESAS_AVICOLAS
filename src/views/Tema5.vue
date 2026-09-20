@@ -276,19 +276,19 @@
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Preventivo
                       td.ajuste-border-tabla.texto-left Evitar fallas.
-                      td.texto-left Según cronograma.
+                      td.texto-left Según cronograma
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Correctivo
                       td.ajuste-border-tabla.texto-left Reparar averías.
-                      td.texto-left Cuando se requiera.
+                      td.texto-left Cuando se requiera
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Predictivo
                       td.ajuste-border-tabla.texto-left Detectar desgaste anticipadamente.
-                      td.texto-left Programado.
+                      td.texto-left Programado
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Autónomo
                       td.ajuste-border-tabla.texto-left Realizar inspecciones básicas por parte del operario.
-                      td.texto-left Diaria.
+                      td.texto-left Diaria
           .row.justify-content-center.align-items-center.mb-5
             .col-xl
               .caja-1.color-2(data-aos="fade-right").mb-3
@@ -367,7 +367,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .caja-1.ajuste-2(data-aos="fade-right")
-            p El #[b manual del fabricante] es el documento oficial que acompaña cada equipo y contiene las instrucciones necesarias para su instalación, operación, mantenimiento y reparación. Su consulta es indispensable antes de poner en funcionamiento cualquier equipo nuevo o cuando se presenten fallas durante la operación. El manual incluye información relacionada con:
+            p El #[b manual del fabricante] es el documento oficial que acompaña a cada equipo y contiene las instrucciones necesarias para su instalación, operación, mantenimiento y reparación. Su consulta es indispensable antes de poner en funcionamiento cualquier equipo nuevo o cuando se presenten fallas durante la operación. El manual incluye información relacionada con:
             ul.fa-ul.estilo___ul.mb-0
               li.mb-2
                 span.fa-li
@@ -544,7 +544,7 @@
               p.mb-3 Requisitos para granjas avícolas bioseguras, incluyendo mantenimiento de instalaciones y equipos.
             .row(titulo="Decreto 1076 de 2015").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Gestión ambiental y manejo de residuos derivados del mantenimiento.
-            .row(titulo="Lineamientos técnicos del ICA sobre Buenas Prácticas Avícolas").ajuste-cajaAcordion.ajuste-vineta
+            .row(titulo="Lineamientos técnicos del ICA sobre buenas prácticas avícolas").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Manejo, mantenimiento y verificación de equipos e infraestructura.
       p.mb-0 La aplicación articulada de estos referentes permite integrar el funcionamiento de los equipos con los requisitos sanitarios, ambientales y de seguridad establecidos para la producción avícola.
 
